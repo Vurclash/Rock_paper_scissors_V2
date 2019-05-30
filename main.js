@@ -1,10 +1,9 @@
 $(document).ready(function(){
-
-
-
-
-
-
-
   
+
+
+
+
+
+
 });

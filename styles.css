@@ -1,0 +1,27 @@
+#title {
+  display: flex;
+  justify-content: center;
+}
+
+#play {
+  font-size: 20px;
+  padding: 32px;
+  border-radius: 12px; 
+}
+
+#choices {
+  font-size: 25px;
+  padding: 2px;
+  
+}
+
+#game {
+  width: 50%;
+  float: left;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+#comp {
+  margin-left: 51%;
+}
